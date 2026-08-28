@@ -135,7 +135,7 @@ Key functions in CSE_106.c:
 
 ## License
 
-No license file is present in the repository. The project has no explicit license declared.
+|| DON'T USE WITHOUT PERMISSION ||
 
 ## Author
 
