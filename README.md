@@ -1,4 +1,4 @@
-# discreet_mathematics_106
+# Discreet Mathematics
 
 A small C program that generates random directed graphs (adjacency matrix), computes vertex in‑degrees and out‑degrees, and reports degree sums and timing for several vertex counts.
 
